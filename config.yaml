@@ -3,9 +3,13 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        kaggle: 1
+        nlp: 1
+        natural language processing: 1
+        dialog: 1
+        generation: 1
+        audio: 1
+        speech: 1
 
 # 通知の閾値
 score_threshold: 0
