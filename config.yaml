@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI OR cat:cs.LG OR cat:cs.CL'
 
 # 検索キーワード
 keywords:
@@ -9,6 +9,8 @@ keywords:
         dialog: 1
         audio: 1
         speech: 1
+        reinforcement: 1
+        conversation: 1
 
 # 通知の閾値
 score_threshold: 0
