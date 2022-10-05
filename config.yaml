@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI OR cat:cs.LG OR cat:cs.CL'
 
 # 検索キーワード
 keywords:
